@@ -1,8 +1,1 @@
-parseMusic({"/stream.mp3 ":{"server_name":"Retro Chip Radio",
-							"listeners":"0",
-							"description":"Human curated oldschool video game music playlist.",
-							"title":"Tetris Attack - Glacial Stage",
-							"genre":"various",
-							"bitrate":"",
-							"url":""}
-});
+parseMusic({"/stream.mp3":{"server_name":"RetroChipRadio","listeners":"0","description":"Humancuratedoldschoolvideogamemusicplaylist.","title":"A.S.P.AirStrikePatrol-Area3","genre":"various","bitrate":"","url":""},"/stream.ogg":{"server_name":"RetroChipRadio","listeners":"0","description":"Humancuratedoldschoolvideogamemusicplaylist.","title":"A.S.P.AirStrikePatrol-Area3","genre":"various","bitrate":"","url":""},"/stream.opus":{"server_name":"RetroChipRadio","listeners":"0","description":"Humancuratedoldschoolvideogamemusicplaylist.","title":"","genre":"various","bitrate":"","url":""}});
